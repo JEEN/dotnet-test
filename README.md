@@ -1,4 +1,4 @@
-dotnet-framework:4.7 Sample
+dotnet-framework:4.7 Sample #1
 ====================
 
 The dotnet-framework:4.7 sample demonstrates basic "hello world" usage of the .NET Framework 4.7. It shows you how you can build and deploy the app relying on the .NET Framework 4.7 docker image.
